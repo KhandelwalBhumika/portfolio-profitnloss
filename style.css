@@ -1,0 +1,44 @@
+/* {} */
+
+body {
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    background-color: pink;
+    padding: 2rem;
+    
+}
+
+label{
+font-size: large;
+
+}
+
+
+input{
+    width: 30%;
+    height: 3em;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+button{
+    padding: 0.5rem;
+    font-size: large;
+    background-color: pink;
+    border-radius: 1rem;
+    margin: 1rem;
+    
+}
+
+button:hover {
+
+    opacity:0.6;
+text-align:justify;
+color:#000000;
+font-size:20px;
+font-weight:200;
+padding: 10px;
+}
